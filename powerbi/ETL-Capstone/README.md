@@ -1,7 +1,7 @@
 # Capstone Project 1: Extract, Transform, and Load Data in Power BI
 
 ### Project Overview 
-This Power BI dashboard was built as part of the Microsoft Power BI Data Analyst specialization, Course 4: Extract, Load, and Transform data in Power BI on Coursera.
+This Power BI dashboard was built as part of the Microsoft Power BI Data Analyst specialization, Course 3: Extract, Load, and Transform data in Power BI on Coursera.
 (https://www.coursera.org/professional-certificates/microsoft-power-bi-data-analyst)
 
 ### Files Included
