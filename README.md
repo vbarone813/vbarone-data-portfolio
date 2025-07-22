@@ -7,7 +7,7 @@ Each folder contains real or guided projects with datasets, code files, and dash
 
 ## Power BI Projects 
 
-Interact dashboards built using Microsoft Power BI (Coursera Certificate Capstones)
+Interactive dashboards built using Microsoft Power BI (Coursera Certificate Capstones)
 
 > Navigate to the 'powerbi/' folder to explore .pbix files, datasets, and documentation.
 
