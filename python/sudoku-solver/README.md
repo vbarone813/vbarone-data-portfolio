@@ -15,7 +15,7 @@ The GUI was implemented with **Pygame** to gain experience with Python visuals a
 - Algorithmic problem-solving 
 - GUI development in Python
 
-### File Overview 
+## File Overview 
 - main.py: Entry point of the program; initializes the window and links the solver and GUI.
 - solver.py: Contains the recursive backtracking algorithm that solves the Sudoku.
 - gui.py: Handles rendering the grid, user interaction, and visual feedback via pygame. 
