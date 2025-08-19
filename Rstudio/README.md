@@ -9,8 +9,9 @@ At the time, I didn’t have much programming experience. Even though I’d dabb
 ## The Bio Lab Struggle Bus 
 My TA (anonymous here, bless his heart) received many frantic emails from me when RStudio assignments were due—usually followed minutes later by a quippy subject line like:
 
-- *“It’s Me Hi I’m the Problem It’s Me”*  
-- *“Just Kidding I Figured it Out lol”*  
+- *“It’s me hi I’m the problem it’s me”*  
+- *“Graphs (she's back)”*
+- *"Guess who's back shady's back back again"*  
 
 I mostly copied example code and changed things until it worked, but I couldn’t explain why we were using a certain graph, statistical test, or syntax. I was playing “Where’s Waldo” with code rather than learning to think like a programmer.
 
