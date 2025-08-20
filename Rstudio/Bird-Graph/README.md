@@ -7,6 +7,8 @@ The dataset consists of two columns:
 
 Our goal was to explore the relationship between treatment type and malaria outcomes.
 
+*If you're new to R and feeling lost, please reference [New_To_R?](Rstudio/New_To_R?).*
+
 ## Quick Glance
 1. Set Working Directory & Upload Data – Make sure R can find your CSV file with getwd() and upload it to that folder.  
 2. Load Libraries – Use library(readr) to access read_csv() and other helpful functions. (More on libraries in a separate file)  
