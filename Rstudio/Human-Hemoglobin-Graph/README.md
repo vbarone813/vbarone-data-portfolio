@@ -19,7 +19,7 @@ Our goal was to explore the distribution of hemoglobin levels across countries.
 ---
 ## Step 1: Set Working Directory and Upload Data 
 - I was having a hard time uploading my dataset and kept getting errors. This is because R is really picky about where it uploads its files from. I had to check where R was currently pulling files from by using `getwd()` to look at my *Working Directory*
-- Note: More about the working directory in [file here]).
+- Note: More about the working directory in [New_To_R?](Rstudio/New_To_R?).
 - Once I knew where R was "looking," I opened up my computer's file application and dragged the CSV file into that folder.
 
 ---
@@ -29,7 +29,7 @@ library(readr)
 ```
 
 - This loads the readr package, which contains functions like read_csv() for reading CSV files
-- Note: More on libraries and packages in [file here].
+- Note: More on libraries and packages in [New_To_R?](Rstudio/New_To_R?).
 
 --- 
 ## Step 3: Import and View the Data 
@@ -43,7 +43,7 @@ summary(Human_Hemoglobin)
 - `View()` opens a spreadsheet-style viewer so we can inspect the data interactively.
 - `summary()` gives a quick overview of each column in the console (bottom left part of the screen where you might also get error messages): min, median, mean, max for numeric columns, and length/class/mode for categorical columns.
 - Note: R is case sensitive, so there is a difference between "Summary()" and "summary()," so watch out for that if you start getting error messages!
-- Note: More on R's layout (like what I mean when I say "in the console" in [file here].
+- Note: More on R's layout (like what I mean when I say "in the console" in [New_To_R?](Rstudio/New_To_R?).
 
 --- 
 ## Step 4: Create a Table of Counts and Percentages 
