@@ -7,6 +7,16 @@ The dataset consists of two columns:
 
 Our goal was to explore the relationship between treatment type and malaria outcomes.
 
+## Quick Glance
+1. Set Working Directory & Upload Data – Make sure R can find your CSV file with getwd() and upload it to that folder.  
+2. Load Libraries – Use library(readr) to access read_csv() and other helpful functions. (More on libraries in a separate file)  
+3. Import & View Data – Bird_Malaria_Data <- read_csv("Bird_Malaria_Data.csv") and View(Bird_Malaria_Data) for spreadsheet-style inspection.  
+4. Check Summary Stats – summary(Bird_Malaria_Data) shows counts and basic statistics for Treatment and Response columns.
+5. Create Table of Counts & Percentages – Use table() and prop.table() to count combinations of Treatment and Response and normalize percentages for fair comparison.
+6. Create Bar Plot – plot(counts, main="Your Title", xlab="Treatment", col=c(...), legend=rownames(counts), args.legend=list(...), beside=FALSE) visualizes outcomes across treatment groups.
+
+---
+
 ## Step 1: Importing Data
 ```R
 Bird_Malaria_Data<-read.csv("Bird_Malaria_Data.csv")
