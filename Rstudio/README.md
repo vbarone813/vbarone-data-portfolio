@@ -7,7 +7,7 @@ At the time, I didn’t have much programming experience. Even though I’d dabb
 ---
 
 ## The Bio Lab Struggle Bus 
-My TA (anonymous here, bless his heart) received many frantic emails from me when RStudio assignments were due—usually followed minutes later by a quippy subject line like:
+My TA (bless his anonymous heart) received many frantic emails from me when RStudio assignments were due—usually followed minutes later by a quippy subject line like:
 
 - *“It’s me hi I’m the problem it’s me”*  
 - *“Graphs (she's back)”*
