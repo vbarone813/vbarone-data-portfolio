@@ -18,12 +18,12 @@ I mostly copied example code and changed things until it worked, but I couldn’
 ---
 
 ## Leveling Up With Python
-About a year and a half later, after graduation, I decided to take up Python (again). This time, I had a new tool in my toolkit: my personal tutor, ChatGPT.
+About a year and a half later, after graduation, I decided to take up Python (again). This time, I had a powerful new tool at my disposal: my personal tutor, ChatGPT.
 
 That unlocked everything. Suddenly, I could ask:
 - “Why does this symbol mean what it does?”  
 - “What if I wanted to use a different graph?”  
-- “What happens if I change this parameter?”
+- “What else is this used for?”
 
 The big breakthrough for me was **libraries**:
 - You can download them like toolkits full of functions.  
