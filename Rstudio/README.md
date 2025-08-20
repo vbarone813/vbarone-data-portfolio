@@ -7,7 +7,7 @@ At the time, I didn’t have much programming experience. Even though I’d dabb
 ---
 
 ## The Bio Lab Struggle Bus 
-My TA (bless his anonymous heart) received many frantic emails from me when RStudio assignments were due—usually followed minutes later by a quippy subject line like:
+My TA (bless his anonymous heart) received many frantic emails from me when RStudio assignments were due with subject lines like:
 
 - *“It’s me hi I’m the problem it’s me”*  
 - *“Graphs (she's back)”*
@@ -18,34 +18,34 @@ I mostly copied example code and changed things until it worked, but I couldn’
 ---
 
 ## Leveling Up With Python
-About a year and a half later, after graduation, I decided to take up Python (again). This time, I had a secret weapon: my personal tutor, ChatGPT (affectionately called *Dr. Che-Gippit*).
+About a year and a half later, after graduation, I decided to take up Python (again). This time, I had a new tool in my toolkit: my personal tutor, ChatGPT.
+
+That unlocked everything. Suddenly, I could ask:
+- “Why does this symbol mean what it does?”  
+- “What if I wanted to use a different graph?”  
+- “What happens if I change this parameter?”
 
 The big breakthrough for me was **libraries**:
 - You can download them like toolkits full of functions.  
 - There are tons of them.  
 - YouTube and documentation actually show you what they do.  
 
-That unlocked everything. Suddenly, I could ask:
-- “Why does this symbol mean what it does?”  
-- “What if I wanted to use a different graph?”  
-- “What happens if I change this parameter?”  
-
-Instead of mimicking code blindly, I was actually learning how to *think* in a programming language.
+Instead of mimicking code blindly, I was actually learning the *why* behing everything I was writing.
 
 ---
 
 ## Why Revisit RStudio Now? 
 For years, my experience with programming went like this:
-- Dive into loops immediately.  
-- Gloss over libraries.  
+- Watch three 15 minute tutotials on strings.  
+- Ask "what's a library?"  
 - Cry trying to install the coding environment.  
 - Sit baffled at syntax quirks like “why is there an exclamation point there??”  
 - Give up after too many vague answers like “you just kind of do it.”  
 
-With AI as a tutor, I finally broke through that wall. So now, I’m revisiting my old Biology II RStudio projects—not to show off R expertise, but to demonstrate how my **thinking process** has evolved.  
+With AI, I finally broke through that wall because I could ask specific questions and quickly get specific answers. So now, I’m revisiting my old Biology II RStudio projects, not to show off R expertise, but to demonstrate how my thinking process has evolved.  
 
 This folder is about:
-- Reviewing my old R code (plots, ANOVA/MANOVA, visualizations).  
+- Reviewing my old R code (plots, MANOVA, visualizations).  
 - Applying what I now know about syntax, libraries, and structure.  
 - Documenting the *questions I ask today* that I never knew to ask back then.  
 
