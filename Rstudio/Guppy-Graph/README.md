@@ -21,7 +21,7 @@ Our goal was to explore the relationship between ornament count and attractivene
 ## Step 1: Set Working Directory and Upload Data
 - I checked my working directory using `getwd()` to make sure R could find the CSV file.
 - Once I knew where R was “looking,” I dragged the CSV file into that folder so it could be accessed easily.
-- Note: I explain what a working directory is and how to set one up here.
+- Note: I explain what a working directory is and how to set one up in [New_To_R?](Rstudio/New_To_R?).
 
 ---
 
@@ -32,7 +32,7 @@ library(readr)
 ````
 
 * This loads the `readr` package, which contains functions like `read_csv()` for reading CSV files.
-* Note: More on libraries \[insert file here]
+* Note: More on libraries in [New_To_R?](Rstudio/New_To_R?).
 
 ---
 
